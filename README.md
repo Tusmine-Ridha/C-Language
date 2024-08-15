@@ -1,2 +1,4 @@
 # C-Language
-**A curated collection of C programs I coded to refresh my skills, from basic concepts to more advanced implementations. Ideal for developers looking to brush up on C or anyone interested in exploring practical C programming examples.**
+
+This repository contains a collection of example C programs, developed to demonstrate various core and advanced concepts in C programming. All code is crafted with an emphasis on clarity and educational value.
+
